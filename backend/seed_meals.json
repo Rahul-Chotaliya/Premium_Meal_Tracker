@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Scrambled Eggs with Toast",
+    "calories": 350,
+    "protein_g": 20,
+    "carbs_g": 25,
+    "fat_g": 18,
+    "tags": ["non-vegetarian"],
+    "eaten_at": "2026-06-06T07:30:00Z"
+  },
+  {
+    "name": "Chicken Caesar Salad",
+    "calories": 550,
+    "protein_g": 40,
+    "carbs_g": 15,
+    "fat_g": 35,
+    "tags": ["non-vegetarian", "high-protein"],
+    "eaten_at": "2026-06-06T13:00:00Z"
+  },
+  {
+    "name": "Protein Bar",
+    "calories": 220,
+    "protein_g": 20,
+    "carbs_g": 20,
+    "fat_g": 7,
+    "tags": ["vegetarian", "snack"],
+    "eaten_at": "2026-06-06T16:30:00Z"
+  },
+  {
+    "name": "Ribeye Steak with Broccoli",
+    "calories": 700,
+    "protein_g": 55,
+    "carbs_g": 10,
+    "fat_g": 45,
+    "tags": ["non-vegetarian", "low-carb"],
+    "eaten_at": "2026-06-06T20:00:00Z"
+  },
+  {
+    "name": "Double Cheeseburger",
+    "calories": 850,
+    "protein_g": 50,
+    "carbs_g": 45,
+    "fat_g": 50,
+    "tags": ["non-vegetarian"],
+    "eaten_at": "2026-06-08T12:30:00Z"
+  },
+  {
+    "name": "French Fries",
+    "calories": 360,
+    "protein_g": 4,
+    "carbs_g": 48,
+    "fat_g": 18,
+    "tags": ["vegan", "snack"],
+    "eaten_at": "2026-06-08T12:45:00Z"
+  },
+  {
+    "name": "Chocolate Milkshake",
+    "calories": 420,
+    "protein_g": 10,
+    "carbs_g": 65,
+    "fat_g": 15,
+    "tags": ["vegetarian"],
+    "eaten_at": "2026-06-08T15:00:00Z"
+  },
+  {
+    "name": "Protein Shake",
+    "calories": 210,
+    "protein_g": 25,
+    "carbs_g": 5,
+    "fat_g": 3,
+    "tags": ["vegetarian", "high-protein", "snack"],
+    "eaten_at": "2026-06-08T18:00:00Z"
+  },
+  {
+    "name": "Baked Salmon",
+    "calories": 300,
+    "protein_g": 34,
+    "carbs_g": 2,
+    "fat_g": 17,
+    "tags": ["non-vegetarian", "low-carb"],
+    "eaten_at": "2026-06-08T20:30:00Z"
+  },
+  {
+    "name": "Oatmeal with Bananas",
+    "calories": 350,
+    "protein_g": 12,
+    "carbs_g": 60,
+    "fat_g": 6,
+    "tags": ["vegetarian", "vegan"],
+    "eaten_at": "2026-06-12T08:00:00Z"
+  },
+  {
+    "name": "Paneer Tikka Salad",
+    "calories": 320,
+    "protein_g": 24,
+    "carbs_g": 12,
+    "fat_g": 18,
+    "tags": ["vegetarian", "high-protein"],
+    "eaten_at": "2026-06-12T13:30:00Z"
+  },
+  {
+    "name": "Protein Shake",
+    "calories": 250,
+    "protein_g": 30,
+    "carbs_g": 10,
+    "fat_g": 5,
+    "tags": ["vegetarian", "high-protein", "snack"],
+    "eaten_at": "2026-06-12T17:00:00Z"
+  },
+  {
+    "name": "Brown Rice with Dal Makhani",
+    "calories": 620,
+    "protein_g": 26,
+    "carbs_g": 78,
+    "fat_g": 25,
+    "tags": ["vegetarian", "high-protein"],
+    "eaten_at": "2026-06-12T20:30:00Z"
+  },
+  {
+    "name": "Avocado Toast",
+    "calories": 280,
+    "protein_g": 8,
+    "carbs_g": 32,
+    "fat_g": 15,
+    "tags": ["vegetarian", "vegan"],
+    "eaten_at": "2026-06-09T08:30:00Z"
+  },
+  {
+    "name": "Tuna Salad Wrap",
+    "calories": 410,
+    "protein_g": 35,
+    "carbs_g": 28,
+    "fat_g": 14,
+    "tags": ["non-vegetarian", "high-protein"],
+    "eaten_at": "2026-06-09T13:00:00Z"
+  },
+  {
+    "name": "Apple with Peanut Butter",
+    "calories": 200,
+    "protein_g": 6,
+    "carbs_g": 22,
+    "fat_g": 12,
+    "tags": ["vegetarian", "vegan", "snack"],
+    "eaten_at": "2026-06-09T16:00:00Z"
+  },
+  {
+    "name": "Mixed Nuts",
+    "calories": 180,
+    "protein_g": 5,
+    "carbs_g": 6,
+    "fat_g": 16,
+    "tags": ["vegan", "snack", "low-carb"],
+    "eaten_at": "2026-06-09T17:30:00Z"
+  },
+  {
+    "name": "Grilled Chicken and Broccoli",
+    "calories": 380,
+    "protein_g": 48,
+    "carbs_g": 10,
+    "fat_g": 12,
+    "tags": ["non-vegetarian", "high-protein", "low-carb"],
+    "eaten_at": "2026-06-09T20:00:00Z"
+  },
+  {
+    "name": "Matcha Latte",
+    "calories": 80,
+    "protein_g": 4,
+    "carbs_g": 12,
+    "fat_g": 2,
+    "tags": ["vegetarian", "snack"],
+    "eaten_at": "2026-06-09T21:30:00Z"
+  },
+  {
+    "name": "Chia Pudding",
+    "calories": 210,
+    "protein_g": 6,
+    "carbs_g": 20,
+    "fat_g": 12,
+    "tags": ["vegetarian", "vegan", "snack"],
+    "eaten_at": "2026-06-10T08:15:00Z"
+  },
+  {
+    "name": "Sushi Combo Roll",
+    "calories": 520,
+    "protein_g": 22,
+    "carbs_g": 75,
+    "fat_g": 10,
+    "tags": ["non-vegetarian"],
+    "eaten_at": "2026-06-10T13:00:00Z"
+  },
+  {
+    "name": "Edamame",
+    "calories": 120,
+    "protein_g": 11,
+    "carbs_g": 10,
+    "fat_g": 4,
+    "tags": ["vegan", "high-protein", "snack"],
+    "eaten_at": "2026-06-10T15:30:00Z"
+  },
+  {
+    "name": "Hummus and Cucumber",
+    "calories": 150,
+    "protein_g": 5,
+    "carbs_g": 18,
+    "fat_g": 8,
+    "tags": ["vegan", "snack"],
+    "eaten_at": "2026-06-10T17:00:00Z"
+  },
+  {
+    "name": "Tofu Stir Fry",
+    "calories": 430,
+    "protein_g": 20,
+    "carbs_g": 42,
+    "fat_g": 18,
+    "tags": ["vegetarian", "vegan", "high-protein"],
+    "eaten_at": "2026-06-10T19:45:00Z"
+  },
+  {
+    "name": "Dark Chocolate Square",
+    "calories": 150,
+    "protein_g": 2,
+    "carbs_g": 15,
+    "fat_g": 10,
+    "tags": ["vegetarian", "snack"],
+    "eaten_at": "2026-06-10T21:00:00Z"
+  },
+  {
+    "name": "Casein Protein Shake",
+    "calories": 400,
+    "protein_g": 40,
+    "carbs_g": 12,
+    "fat_g": 16,
+    "tags": ["vegetarian", "high-protein"],
+    "eaten_at": "2026-06-10T22:30:00Z"
+  },
+  {
+    "name": "Greek Yogurt Bowl",
+    "calories": 280,
+    "protein_g": 22,
+    "carbs_g": 25,
+    "fat_g": 8,
+    "tags": ["vegetarian", "high-protein"],
+    "eaten_at": "2026-06-11T08:00:00Z"
+  },
+  {
+    "name": "Turkey and Swiss Sandwich",
+    "calories": 450,
+    "protein_g": 32,
+    "carbs_g": 40,
+    "fat_g": 16,
+    "tags": ["non-vegetarian", "high-protein"],
+    "eaten_at": "2026-06-11T12:30:00Z"
+  },
+  {
+    "name": "Potato Chips",
+    "calories": 150,
+    "protein_g": 2,
+    "carbs_g": 15,
+    "fat_g": 10,
+    "tags": ["vegan", "snack"],
+    "eaten_at": "2026-06-11T15:00:00Z"
+  },
+  {
+    "name": "Banana",
+    "calories": 100,
+    "protein_g": 1,
+    "carbs_g": 26,
+    "fat_g": 0,
+    "tags": ["vegan", "snack"],
+    "eaten_at": "2026-06-11T16:30:00Z"
+  },
+  {
+    "name": "Beef Lasagna",
+    "calories": 720,
+    "protein_g": 42,
+    "carbs_g": 64,
+    "fat_g": 30,
+    "tags": ["non-vegetarian"],
+    "eaten_at": "2026-06-11T19:30:00Z"
+  },
+  {
+    "name": "Garlic Bread",
+    "calories": 250,
+    "protein_g": 6,
+    "carbs_g": 30,
+    "fat_g": 12,
+    "tags": ["vegetarian"],
+    "eaten_at": "2026-06-11T19:45:00Z"
+  },
+  {
+    "name": "Cottage Cheese",
+    "calories": 180,
+    "protein_g": 20,
+    "carbs_g": 8,
+    "fat_g": 6,
+    "tags": ["vegetarian", "high-protein", "snack", "low-carb"],
+    "eaten_at": "2026-06-11T21:30:00Z"
+  },
+  {
+    "name": "Diet Soda",
+    "calories": 120,
+    "protein_g": 0,
+    "carbs_g": 30,
+    "fat_g": 0,
+    "tags": ["vegan", "snack"],
+    "eaten_at": "2026-06-11T22:00:00Z"
+  },
+  {
+    "name": "Blueberry Pancakes",
+    "calories": 420,
+    "protein_g": 10,
+    "carbs_g": 72,
+    "fat_g": 10,
+    "tags": ["vegetarian"],
+    "eaten_at": "2026-06-05T08:30:00Z"
+  },
+  {
+    "name": "Chicken Burrito Bowl",
+    "calories": 680,
+    "protein_g": 45,
+    "carbs_g": 68,
+    "fat_g": 22,
+    "tags": ["non-vegetarian", "high-protein"],
+    "eaten_at": "2026-06-05T13:00:00Z"
+  },
+  {
+    "name": "Rice Cakes",
+    "calories": 70,
+    "protein_g": 1,
+    "carbs_g": 15,
+    "fat_g": 0,
+    "tags": ["vegan", "snack", "low-carb"],
+    "eaten_at": "2026-06-05T15:30:00Z"
+  },
+  {
+    "name": "Mixed Berries",
+    "calories": 80,
+    "protein_g": 1,
+    "carbs_g": 18,
+    "fat_g": 0,
+    "tags": ["vegan", "snack"],
+    "eaten_at": "2026-06-05T17:00:00Z"
+  },
+  {
+    "name": "Lentil Soup",
+    "calories": 350,
+    "protein_g": 18,
+    "carbs_g": 52,
+    "fat_g": 6,
+    "tags": ["vegetarian", "vegan", "high-protein"],
+    "eaten_at": "2026-06-05T20:00:00Z"
+  },
+  {
+    "name": "Almond Milk",
+    "calories": 200,
+    "protein_g": 2,
+    "carbs_g": 25,
+    "fat_g": 10,
+    "tags": ["vegan", "snack"],
+    "eaten_at": "2026-06-05T21:30:00Z"
+  },
+  {
+    "name": "Waffles with Syrup",
+    "calories": 380,
+    "protein_g": 6,
+    "carbs_g": 65,
+    "fat_g": 10,
+    "tags": ["vegetarian"],
+    "eaten_at": "2026-06-04T08:30:00Z"
+  },
+  {
+    "name": "Tofu Teriyaki Wrap",
+    "calories": 420,
+    "protein_g": 18,
+    "carbs_g": 48,
+    "fat_g": 16,
+    "tags": ["vegetarian", "vegan"],
+    "eaten_at": "2026-06-04T13:00:00Z"
+  },
+  {
+    "name": "Roasted Chickpeas",
+    "calories": 140,
+    "protein_g": 7,
+    "carbs_g": 20,
+    "fat_g": 4,
+    "tags": ["vegan", "snack", "high-protein"],
+    "eaten_at": "2026-06-04T16:00:00Z"
+  },
+  {
+    "name": "Baked Cod with Quinoa",
+    "calories": 480,
+    "protein_g": 38,
+    "carbs_g": 45,
+    "fat_g": 12,
+    "tags": ["non-vegetarian", "high-protein"],
+    "eaten_at": "2026-06-04T19:30:00Z"
+  },
+  {
+    "name": "Walnuts",
+    "calories": 180,
+    "protein_g": 4,
+    "carbs_g": 4,
+    "fat_g": 18,
+    "tags": ["vegan", "snack", "low-carb"],
+    "eaten_at": "2026-06-04T21:00:00Z"
+  },
+  {
+    "name": "Protein Oatmeal",
+    "calories": 310,
+    "protein_g": 22,
+    "carbs_g": 42,
+    "fat_g": 6,
+    "tags": ["vegetarian", "high-protein"],
+    "eaten_at": "2026-06-03T08:00:00Z"
+  },
+  {
+    "name": "Egg Salad Sandwich",
+    "calories": 420,
+    "protein_g": 16,
+    "carbs_g": 34,
+    "fat_g": 22,
+    "tags": ["non-vegetarian"],
+    "eaten_at": "2026-06-03T12:30:00Z"
+  },
+  {
+    "name": "Baby Carrots and Dip",
+    "calories": 120,
+    "protein_g": 2,
+    "carbs_g": 12,
+    "fat_g": 8,
+    "tags": ["vegetarian", "snack"],
+    "eaten_at": "2026-06-03T15:30:00Z"
+  },
+  {
+    "name": "Grilled Pork Chops",
+    "calories": 550,
+    "protein_g": 42,
+    "carbs_g": 2,
+    "fat_g": 38,
+    "tags": ["non-vegetarian", "low-carb"],
+    "eaten_at": "2026-06-03T19:30:00Z"
+  },
+  {
+    "name": "Pistachios",
+    "calories": 160,
+    "protein_g": 6,
+    "carbs_g": 8,
+    "fat_g": 13,
+    "tags": ["vegan", "snack", "low-carb"],
+    "eaten_at": "2026-06-03T21:00:00Z"
+  }
+]
