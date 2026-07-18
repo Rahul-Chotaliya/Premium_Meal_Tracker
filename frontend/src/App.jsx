@@ -1,6 +1,6 @@
 import React, { useState, useEffect } from 'react';
 
-const API_BASE = import.meta.env.VITE_API_BASE || 'http://localhost:8000';
+const API_BASE = import.meta.env.VITE_API_BASE || import.meta.env.VITE_API_URL || 'http://localhost:8000';
 
 const ALLOWED_TAGS = ['vegetarian', 'non-vegetarian', 'vegan', 'high-protein', 'low-carb', 'snack'];
 const DEFAULT_DATE = '2026-06-12'; // Defaulting to seed data date on initial load
